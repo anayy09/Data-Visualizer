@@ -8,8 +8,6 @@ This Streamlit app provides an interactive interface for data visualization. It 
 - **Dataset Selection**: Users can select from the existing datasets like diabetes, heart, Parkinson's, tips, Titanic, and wine.
 - **Dynamic Plotting**: Several plot types can be generated based on user input.
 - **Customizable Settings**: Plot dimensions, text sizes, and the number of data rows to display can be adjusted.
-- **Download Capability**: Users can download both the processed data and the generated plots.
-- **Reset Settings**: A reset feature allows users to revert back to initial settings easily.
 
 ## Installation
 To run this app locally, you need to have Python installed on your system. Then, follow these steps:
